@@ -1,0 +1,25 @@
+/*Tag Selectors*/
+
+body {
+    background-color: #f7f5f2;
+}
+
+hr {
+    background-color: #ECE8DD;
+    border-style: none;
+    height: 1px;
+}
+
+h1, h3 {
+    color: #579BB1;
+}
+
+p, li, th, td {
+    color: #66635e;
+    font-family: serif;
+    font-size: 12px;
+}
+
+/*Class Selectors*/
+
+/*ID Selectors*/
